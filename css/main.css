@@ -172,6 +172,7 @@ a{
     color: #6479a2;
     padding-top: 150px;
     padding-bottom: 190px;
+    padding: 150px;
         
 }
 .footer p {
@@ -254,16 +255,28 @@ p.footer__social-icons a:hover{
         line-height: 38px;
     }
     .portfolio{
-        padding-top: 40px;
-        padding-bottom: 50px;
+        padding-top:55px;
+        padding-bottom: 900px;
         
     }
     .title{
-        font-size: 36px;
+        font-size: 35px;
     }
     .footer{
-        padding-top:70px;
-        padding-bottom: 60px;
+        
+        padding-top:46px;
+        padding-bottom: 404px;
+       }
+    .portfolio-item__img{
+        font-size: auto;
+        margin-top: -45px;
+    }
+    .portfolio-item__text{
+        margin-top: -8px;
+        
+    }
+    .portfolio-item__text:last-child{
+        margin-bottom: 20px;
     }
 }
 
